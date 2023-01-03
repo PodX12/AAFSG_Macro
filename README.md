@@ -1,9 +1,7 @@
 # Simple AAFSG Macro
 
 ## HOW THIS WORKS
-This macro listens to when you press CTRL + C on the AAFSG website
-then tabs into Minecraft* and puts the seed in using the Atum mod
-
-This does not leave worlds it just simply creates them.
+This macro requires you have a browser window open focused on AAFSG to work.
+When you press your hotkey while focused on minecraft it tab into aafsg.com, get a seed, tab into minecraft and create that world.
 
 ### REQUIRES Atum mod
